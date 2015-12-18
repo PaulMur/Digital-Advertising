@@ -1,15 +1,6 @@
-# Digital-Advertising
+# Templates
 ## Introduction
-Repository houses Adloc8tor's Digital Signage and Advertising solutions. Code supports:
-* Revel platform
+These templates provide a mechanism to help developers get a quick start to their development.
 
-## Development Environments
-### Windows
-Software: <Add here>
-
-Development environment location: <Add here>
-
-### Mac OS X
-Software:
-
-Development environment location: ~/Documents/Projects/Digital Advertising
+The following templates are provided:
+*
